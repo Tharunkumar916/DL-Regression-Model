@@ -144,20 +144,28 @@ optimizer = torch.optim.SGD(model.parameters(), lr=0.001)
 
 ### Dataset Information
 Include screenshot of the generated data
+
+
 <img width="545" height="197" alt="image" src="https://github.com/user-attachments/assets/12ef25de-798f-4552-b162-7ef655f4c439" />
 
 
 ### OUTPUT
 Training Loss Vs Iteration Plot
+
+
 <img width="486" height="377" alt="image" src="https://github.com/user-attachments/assets/a962695f-840e-42b6-8769-e43bd2fb067d" />
 
 Best Fit line plot
 Include your plot here
+
+
 <img width="472" height="377" alt="image" src="https://github.com/user-attachments/assets/7f785612-0cbf-43d8-9736-7a654fb20bd1" />
 
 
 ### New Sample Data Prediction
 Include your sample input and output here
+
+
 <img width="471" height="367" alt="image" src="https://github.com/user-attachments/assets/851df23f-1f08-4226-bc70-57e69ab3bc85" />
 
 
